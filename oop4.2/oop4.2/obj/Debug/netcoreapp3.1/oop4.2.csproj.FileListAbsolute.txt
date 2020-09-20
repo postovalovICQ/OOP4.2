@@ -1,0 +1,13 @@
+D:\Проекты Visuo Studio\oop4.2\oop4.2\bin\Debug\netcoreapp3.1\oop4.2.exe
+D:\Проекты Visuo Studio\oop4.2\oop4.2\bin\Debug\netcoreapp3.1\oop4.2.deps.json
+D:\Проекты Visuo Studio\oop4.2\oop4.2\bin\Debug\netcoreapp3.1\oop4.2.runtimeconfig.json
+D:\Проекты Visuo Studio\oop4.2\oop4.2\bin\Debug\netcoreapp3.1\oop4.2.runtimeconfig.dev.json
+D:\Проекты Visuo Studio\oop4.2\oop4.2\bin\Debug\netcoreapp3.1\oop4.2.dll
+D:\Проекты Visuo Studio\oop4.2\oop4.2\bin\Debug\netcoreapp3.1\oop4.2.pdb
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.csprojAssemblyReference.cache
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.AssemblyInfoInputs.cache
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.AssemblyInfo.cs
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.csproj.CoreCompileInputs.cache
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.dll
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.pdb
+D:\Проекты Visuo Studio\oop4.2\oop4.2\obj\Debug\netcoreapp3.1\oop4.2.genruntimeconfig.cache
